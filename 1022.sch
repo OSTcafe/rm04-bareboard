@@ -5901,10 +5901,10 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <instance part="U1" gate="G$1" x="22.86" y="66.04"/>
 <instance part="SUPPLY1" gate="GND" x="-12.7" y="71.12"/>
 <instance part="U2" gate="G$1" x="99.06" y="30.48"/>
-<instance part="LED1" gate="G$1" x="104.14" y="88.9"/>
-<instance part="LED2" gate="G$1" x="104.14" y="78.74"/>
-<instance part="LED3" gate="G$1" x="104.14" y="68.58"/>
-<instance part="LED4" gate="G$1" x="104.14" y="58.42"/>
+<instance part="LED1" gate="G$1" x="78.74" y="88.9"/>
+<instance part="LED2" gate="G$1" x="96.52" y="88.9"/>
+<instance part="LED3" gate="G$1" x="111.76" y="88.9"/>
+<instance part="LED4" gate="G$1" x="129.54" y="88.9"/>
 <instance part="J1" gate="1" x="63.5" y="63.5"/>
 <instance part="SUPPLY2" gate="GND" x="86.36" y="50.8"/>
 <instance part="J2" gate="G$1" x="73.66" y="10.16"/>
