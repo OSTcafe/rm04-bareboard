@@ -5892,7 +5892,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <sheet>
 <plain>
 <text x="12.7" y="43.18" size="1.778" layer="97">HLK-RM04, a wifi module</text>
-<text x="60.96" y="53.34" size="1.778" layer="97">console port (Buf)</text>
+<text x="66.04" y="53.34" size="1.778" layer="97">console port (Buf)</text>
 <text x="116.84" y="20.32" size="1.778" layer="97">pull up for I2C pin</text>
 <text x="27.94" y="-25.4" size="1.778" layer="97">RJ45 with Mag (Center Tap = +1V8)</text>
 <text x="83.82" y="12.7" size="1.778" layer="97">address = 0x50</text>
@@ -5905,7 +5905,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <instance part="LED2" gate="G$1" x="96.52" y="88.9"/>
 <instance part="LED3" gate="G$1" x="111.76" y="88.9"/>
 <instance part="LED4" gate="G$1" x="111.76" y="73.66"/>
-<instance part="J1" gate="1" x="63.5" y="63.5"/>
+<instance part="J1" gate="1" x="66.04" y="63.5"/>
 <instance part="SUPPLY2" gate="GND" x="86.36" y="50.8"/>
 <instance part="J2" gate="G$1" x="73.66" y="10.16"/>
 <instance part="SUPPLY3" gate="GND" x="-12.7" y="20.32"/>
@@ -6011,7 +6011,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </segment>
 <segment>
 <pinref part="J1" gate="1" pin="1"/>
-<wire x1="71.12" y1="58.42" x2="83.82" y2="58.42" width="0.1524" layer="91"/>
+<wire x1="73.66" y1="58.42" x2="83.82" y2="58.42" width="0.1524" layer="91"/>
 <label x="76.2" y="58.42" size="1.778" layer="95"/>
 </segment>
 </net>
@@ -6023,7 +6023,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </segment>
 <segment>
 <pinref part="J1" gate="1" pin="2"/>
-<wire x1="71.12" y1="60.96" x2="83.82" y2="60.96" width="0.1524" layer="91"/>
+<wire x1="73.66" y1="60.96" x2="83.82" y2="60.96" width="0.1524" layer="91"/>
 <label x="76.2" y="60.96" size="1.778" layer="95"/>
 </segment>
 </net>
@@ -6090,7 +6090,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </segment>
 <segment>
 <pinref part="J1" gate="1" pin="3"/>
-<wire x1="71.12" y1="63.5" x2="86.36" y2="63.5" width="0.1524" layer="91"/>
+<wire x1="73.66" y1="63.5" x2="86.36" y2="63.5" width="0.1524" layer="91"/>
 <pinref part="SUPPLY2" gate="GND" pin="GND"/>
 <wire x1="86.36" y1="63.5" x2="86.36" y2="53.34" width="0.1524" layer="91"/>
 <label x="76.2" y="63.5" size="1.778" layer="95"/>
@@ -6139,7 +6139,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </segment>
 <segment>
 <pinref part="J1" gate="1" pin="4"/>
-<wire x1="71.12" y1="66.04" x2="83.82" y2="66.04" width="0.1524" layer="91"/>
+<wire x1="73.66" y1="66.04" x2="83.82" y2="66.04" width="0.1524" layer="91"/>
 <label x="76.2" y="66.04" size="1.778" layer="95"/>
 </segment>
 <segment>
