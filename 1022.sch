@@ -5904,7 +5904,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <instance part="LED1" gate="G$1" x="96.52" y="73.66"/>
 <instance part="LED2" gate="G$1" x="96.52" y="88.9"/>
 <instance part="LED3" gate="G$1" x="111.76" y="88.9"/>
-<instance part="LED4" gate="G$1" x="129.54" y="88.9"/>
+<instance part="LED4" gate="G$1" x="111.76" y="73.66"/>
 <instance part="J1" gate="1" x="63.5" y="63.5"/>
 <instance part="SUPPLY2" gate="GND" x="86.36" y="50.8"/>
 <instance part="J2" gate="G$1" x="73.66" y="10.16"/>
